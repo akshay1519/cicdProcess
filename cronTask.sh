@@ -8,7 +8,7 @@ PYTHON=$DIR/env/bin/python3
 PIP=$DIR/env/bin/pip3
 
 # Create the virtual environment
-python -m venv env
+python3 -m venv env
 
 # Activate the virtual environment and run the commands that need to be run in it
 (
